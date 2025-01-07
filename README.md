@@ -1,2 +1,3 @@
 # CSS-Practice-Proj
-Practice projects mainly focused on CSS
+Basic Landing Page Designs for Practicing CSS
+
