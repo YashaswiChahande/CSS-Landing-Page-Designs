@@ -1,3 +1,3 @@
 # CSS-Practice-Proj
-Basic Landing Page Designs for Practicing CSS
+CSS Landing Page Designs
 
